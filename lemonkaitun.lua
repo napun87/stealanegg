@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=lemonkaitun"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lennonxscripts/lennonfarm/refs/heads/main/farmv1.lua"))()
