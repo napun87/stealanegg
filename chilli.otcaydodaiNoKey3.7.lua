@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=chilli_hub_v3"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=chillihubv4"))()
