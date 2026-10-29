@@ -159,7 +159,7 @@ local EXACT_MATCH_VI = {
 }
 
 local MAP_VI = {
-    ["Chilli Hub"] = "Chilli Hub V4 Pro",
+    ["Chilli Hub"] = "Chilli Hub V8",
     ["Farm"] = "Cày Cuốc",
     ["Player"] = "Người Chơi",
     ["Predictor"] = "Dự Đoán",
