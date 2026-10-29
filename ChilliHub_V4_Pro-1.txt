@@ -37,7 +37,7 @@ local function replaceAll(str, findStr, replaceStr)
 end
 
 local EXACT_MATCH_VI = {
-    ["Chilli Hub"] = "Chilli Hub V4 Pro",
+    ["Chilli Hub"] = "Chilli Hub V8",
     ["Hop"] = "Đổi Server",
     ["Join"] = "Vào Phòng",
     ["Copy"] = "Sao Chép",
